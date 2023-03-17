@@ -1,2 +1,2 @@
-👋
-Im the real Slim Shady
+// Cursando Analise e Desenvolvimento de Sistemas (USCS)
+// C# e Java Enjoyer
